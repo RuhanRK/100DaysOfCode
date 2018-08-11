@@ -5,7 +5,10 @@ From 07/08/18 I have started 100 Days Code Challenge
 
 **Day 02** - Advance JS Array Method **_Date_** : 08/08/2018
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> da264fefbe935a4cb5a41a09e085a6db89a785f9
 **Day 03** - Working on Todo APp **_Date_** : 09/08/2018
 
 
