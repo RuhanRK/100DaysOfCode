@@ -13,3 +13,6 @@ From 07/08/18 I have started 100 Days Code Challenge
 
 
 **Day 05** - JS date. Moment js, Arrow function and so more **_Date_** : 11/08/2018
+
+
+**Day 06** - Advance JS- Prototype **_Date_** : 12/08/2018
