@@ -18,4 +18,7 @@ From 07/08/18 I have started 100 Days Code Challenge
 **Day 06** - Advance JS- Prototype **_Date_** : 12/08/2018
 
 
-**Day 07** - Hangman game with advance js **_Date_** : 12/08/2018
+**Day 07** - Hangman game with advance js **_Date_** : 13/08/2018
+
+
+**Day 08** - Hangman game, With Class and HTTP requestes **_Date_** : 14/08/2018
