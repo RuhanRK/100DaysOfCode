@@ -22,3 +22,6 @@ From 07/08/18 I have started 100 Days Code Challenge
 
 
 **Day 08** - Hangman game, With Class and HTTP requestes **_Date_** : 14/08/2018
+
+
+**Day 09** - Hangman game, Async Await, fetch **_Date_** : 14/08/2018
